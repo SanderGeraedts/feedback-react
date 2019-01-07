@@ -1,0 +1,23 @@
+i {
+    font-size: 30vh;
+    opacity: 0.90;
+    transition: all 0.75s ease-out;
+    color: #FFFFFF;
+}
+
+.pressed {
+    opacity: 1;
+
+}
+
+.sad {
+    color: #FF0000;
+}
+
+.neutral {
+    color: #FFFF00;
+}
+
+.happy {
+    color: #00FF00;
+}
